@@ -12,11 +12,5 @@ src = [
   [30, 36, 38, 39, 40, 45, 47, 49, 50, 59, 60, 60, 65, 63, 61, 56, 49, 43, 40, 39, 35, 32, 23, 22],
 ]
  
-row_index = 0 
-while row_index < src.count do
-  element_index = 0 
-  least = ""
-  while element_index < src[row_index].count do 
-  end 
-element_index += 1 
+
 end
