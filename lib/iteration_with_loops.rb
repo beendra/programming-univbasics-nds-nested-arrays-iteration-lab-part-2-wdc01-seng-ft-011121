@@ -12,14 +12,5 @@ src = [
   [30, 36, 38, 39, 40, 45, 47, 49, 50, 59, 60, 60, 65, 63, 61, 56, 49, 43, 40, 39, 35, 32, 23, 22],
 ]
  
- new_array = []
+
  
-for i in src 
-    least = i[0] 
-    for a in i 
-      least = a if a <= least 
-    end
-    new_array << least
-  end
-  new_array
-end
